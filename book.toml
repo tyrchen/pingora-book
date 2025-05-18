@@ -1,0 +1,5 @@
+[book]
+authors = ["Tyr Chen"]
+language = "zh-CN"
+src = "src"
+title = "使用 Pingora 构建应用程序"
